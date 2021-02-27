@@ -64,7 +64,8 @@
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
-    "pwa-switcher": false
+    "pwa-switcher": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -5339,7 +5340,7 @@
     },
     "page4.html": {
       "settings": {
-        "title": "疼惜土地，維護古蹟",
+        "title": "p1",
         "order": 3
       },
       "components": [
