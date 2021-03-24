@@ -4845,50 +4845,50 @@ section.lazy-placeholder:after {
 .cid-sq9hU0PTTm H4 {
   color: #767676;
 }
-.cid-ssAxWQLgpy {
+.cid-ssAz9IRQd5 {
   padding-top: 150px;
   padding-bottom: 75px;
   background-color: #ffdbc9;
   position: relative;
   overflow: hidden;
 }
-.cid-ssAxWQLgpy .container {
+.cid-ssAz9IRQd5 .container {
   max-width: 1400px;
 }
-.cid-ssAxWQLgpy .card-img2 span {
+.cid-ssAz9IRQd5 .card-img2 span {
   padding-top: 6px;
 }
-.cid-ssAxWQLgpy .soc-item a {
+.cid-ssAz9IRQd5 .soc-item a {
   padding-top: 5px;
 }
-.cid-ssAxWQLgpy .btn {
+.cid-ssAz9IRQd5 .btn {
   padding: 0.4rem 0.6rem !important;
   margin: 0.5rem !important;
   border-radius: 10px !important;
   letter-spacing: 0px;
 }
-.cid-ssAxWQLgpy .btn .mbr-iconfont {
+.cid-ssAz9IRQd5 .btn .mbr-iconfont {
   margin-top: 0.1rem;
 }
-.cid-ssAxWQLgpy .btn .mbr-iconfont.socicon {
+.cid-ssAz9IRQd5 .btn .mbr-iconfont.socicon {
   margin-right: 0.8rem !important;
   order: 0;
 }
 @media (max-width: 992px) {
-  .cid-ssAxWQLgpy .content > div:not(:last-child) {
+  .cid-ssAz9IRQd5 .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
-.cid-ssAxWQLgpy svg {
+.cid-ssAz9IRQd5 svg {
   position: absolute;
   top: 2rem;
   left: 50%;
   transform: translate(-50%) scale(2, 1.6) rotate(180deg);
 }
-.cid-ssAxWQLgpy #e2_shape {
+.cid-ssAz9IRQd5 #e2_shape {
   fill: #ffffff !important;
 }
-.cid-ssAxWQLgpy .quote {
+.cid-ssAz9IRQd5 .quote {
   background-color: rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   padding: 1rem;
@@ -4896,7 +4896,7 @@ section.lazy-placeholder:after {
   margin-bottom: 1.8rem;
   color: #ffffff;
 }
-.cid-ssAxWQLgpy .quote::after {
+.cid-ssAz9IRQd5 .quote::after {
   top: 100%;
   left: 36px;
   content: " ";
@@ -4907,7 +4907,7 @@ section.lazy-placeholder:after {
   border-width: 20px 20px 0 0;
   border-color: rgba(0, 0, 0, 0.1) transparent transparent;
 }
-.cid-ssAxWQLgpy .card-img2 {
+.cid-ssAz9IRQd5 .card-img2 {
   min-width: 45px;
   height: 45px;
   background: #133996;
@@ -4916,10 +4916,10 @@ section.lazy-placeholder:after {
   justify-content: center;
   align-items: center;
 }
-.cid-ssAxWQLgpy .card-img {
+.cid-ssAz9IRQd5 .card-img {
   width: auto;
 }
-.cid-ssAxWQLgpy .soc-item {
+.cid-ssAz9IRQd5 .soc-item {
   width: 45px;
   height: 45px;
   background: #ffffff;
@@ -4930,41 +4930,41 @@ section.lazy-placeholder:after {
   align-items: center;
   margin-right: 1rem;
 }
-.cid-ssAxWQLgpy .soc-item span {
+.cid-ssAz9IRQd5 .soc-item span {
   font-size: 1.4rem;
 }
-.cid-ssAxWQLgpy .soc-item:hover span {
+.cid-ssAz9IRQd5 .soc-item:hover span {
   color: #121525 !important;
 }
-.cid-ssAxWQLgpy .item {
+.cid-ssAz9IRQd5 .item {
   display: flex;
   align-items: center;
   margin-bottom: 1rem;
 }
-.cid-ssAxWQLgpy .item h4 {
+.cid-ssAz9IRQd5 .item h4 {
   padding-left: 10px;
   margin: 0;
 }
-.cid-ssAxWQLgpy .media-wrap {
+.cid-ssAz9IRQd5 .media-wrap {
   margin-bottom: 1rem;
 }
-.cid-ssAxWQLgpy .mbr-iconfont-logo {
+.cid-ssAz9IRQd5 .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-ssAxWQLgpy img {
+.cid-ssAz9IRQd5 img {
   height: 4rem;
   width: auto;
 }
 @media (max-width: 576px) {
-  .cid-ssAxWQLgpy .item {
+  .cid-ssAz9IRQd5 .item {
     justify-content: center;
   }
-  .cid-ssAxWQLgpy .quote::after {
+  .cid-ssAz9IRQd5 .quote::after {
     left: 60px;
   }
 }
-.cid-ssAxWQLgpy .social-list {
+.cid-ssAz9IRQd5 .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -4972,28 +4972,28 @@ section.lazy-placeholder:after {
   flex-wrap: wrap;
 }
 @media (max-width: 576px) {
-  .cid-ssAxWQLgpy .social-list {
+  .cid-ssAz9IRQd5 .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
 }
-.cid-ssAxWQLgpy .text1 {
+.cid-ssAz9IRQd5 .text1 {
   color: #000000;
 }
-.cid-ssAxWQLgpy .item-title {
+.cid-ssAz9IRQd5 .item-title {
   color: #000000;
 }
-.cid-ssAxWQLgpy H5 {
+.cid-ssAz9IRQd5 H5 {
   color: #0a1c44;
   text-align: left;
 }
-.cid-ssAxWQLgpy .theme {
+.cid-ssAz9IRQd5 .theme {
   color: #ffffff;
 }
-.cid-ssAxWQLgpy .copyright > p {
+.cid-ssAz9IRQd5 .copyright > p {
   color: #ff3366;
 }
-.cid-ssAxWQLgpy .text2 {
+.cid-ssAz9IRQd5 .text2 {
   color: #000000;
 }
 .cid-sq91Zlssdr {
