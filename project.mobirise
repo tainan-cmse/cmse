@@ -60,7 +60,7 @@
         "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i"
       }
     ],
-    "imageResize": true,
+    "imageResize": false,
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/chenmei-identity-all-ewen-40-128x137.png",
     "robotsSwitcher": false,
@@ -70,9 +70,9 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 288,
-    "versionPublish": "5.8.0",
+    "versionPublish": "5.8.17",
     "screenshot": "screenshot.png",
-    "mbrsiteDomain": "p3ranqpphr",
+    "mbrsiteDomain": "ieagquhefu",
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
@@ -80,7 +80,8 @@
     "publishChangesOnly": true,
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
@@ -357,7 +358,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/111-1-1200x676.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -399,7 +400,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/688711e0-d868-4b8a-a0ed-96f4dd19a953-1-1426x950.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -416,6 +417,69 @@
                 "text": "从预设的备选区块中选择，如jumbotrons，hero images，parallax scrolling，视频背景，汉堡包菜单，sticky header等等。",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info-outline\" data-app-placeholder=\"Type Text\" href=\"http://www.tica.com.tw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span></a> ",
                 "overlayOpacity": "0.6",
+                "overlayColor": "#343351"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2024-04-04-11.14.34.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "CHEN MEI Arts&amp;Culture Social Enterprise",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info-outline\" data-app-placeholder=\"Type Text\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span></a> ",
+                "overlayOpacity": "0.5",
+                "overlayColor": "#343351"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2024web-1-.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "从预设的备选区块中选择，如jumbotrons，hero images，parallax scrolling，视频背景，汉堡包菜单，sticky header等等。",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info-outline\" data-app-placeholder=\"Type Text\" href=\"http://www.tica.com.tw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span></a> ",
+                "overlayOpacity": "0.6",
+                "overlayColor": "#343351"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/0718-2.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "CHEN MEI Arts&amp;Culture Social Enterprise",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info-outline\" data-app-placeholder=\"Type Text\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span></a> ",
+                "overlayOpacity": "0.5",
                 "overlayColor": "#343351"
               }
             ]
