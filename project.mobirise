@@ -374,7 +374,7 @@
                 "contentAlign": "center",
                 "text": "CHEN MEI Arts&amp;Culture Social Enterprise",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info-outline\" data-app-placeholder=\"Type Text\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-                "overlayOpacity": "0.5",
+                "overlayOpacity": "0.3",
                 "overlayColor": "#343351"
               },
               {
@@ -395,7 +395,7 @@
                 "contentAlign": "center",
                 "text": "带Youtube视频背景和彩色遮罩的幻灯片。标题与文本被左对齐。",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info-outline\" data-app-placeholder=\"Type Text\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-                "overlayOpacity": "0.4",
+                "overlayOpacity": "0.2",
                 "overlayColor": "#343351"
               },
               {
@@ -416,7 +416,7 @@
                 "contentAlign": "center",
                 "text": "从预设的备选区块中选择，如jumbotrons，hero images，parallax scrolling，视频背景，汉堡包菜单，sticky header等等。",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info-outline\" data-app-placeholder=\"Type Text\" href=\"http://www.tica.com.tw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-                "overlayOpacity": "0.6",
+                "overlayOpacity": "0.2",
                 "overlayColor": "#343351"
               },
               {
@@ -437,12 +437,12 @@
                 "contentAlign": "center",
                 "text": "CHEN MEI Arts&amp;Culture Social Enterprise",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info-outline\" data-app-placeholder=\"Type Text\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-                "overlayOpacity": "0.5",
+                "overlayOpacity": "0.3",
                 "overlayColor": "#343351"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2024web0425banner.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -458,12 +458,12 @@
                 "contentAlign": "center",
                 "text": "从预设的备选区块中选择，如jumbotrons，hero images，parallax scrolling，视频背景，汉堡包菜单，sticky header等等。",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info-outline\" data-app-placeholder=\"Type Text\" href=\"http://www.tica.com.tw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-                "overlayOpacity": "0.6",
+                "overlayOpacity": "0.2",
                 "overlayColor": "#343351"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2024-2.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -479,7 +479,7 @@
                 "contentAlign": "center",
                 "text": "CHEN MEI Arts&amp;Culture Social Enterprise",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info-outline\" data-app-placeholder=\"Type Text\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-                "overlayOpacity": "0.5",
+                "overlayOpacity": "0.2",
                 "overlayColor": "#343351"
               }
             ]
