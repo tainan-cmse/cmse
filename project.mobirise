@@ -358,7 +358,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/111-1-1200x676.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -441,8 +441,8 @@
                 "overlayColor": "#343351"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2024web-1-.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2024web0425banner.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -462,7 +462,7 @@
                 "overlayColor": "#343351"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/0718-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2024-2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
